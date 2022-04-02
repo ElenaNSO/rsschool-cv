@@ -1,7 +1,9 @@
+
+
 # Elena Grigoreva #
 
 
-##Contact information:##
+## Contact information: ##
 
 Tel: +7(961)8742411
 
@@ -9,20 +11,20 @@ E-mail: yaelena@ngs.ru
 
 Telegram: @ElenaNSO
 
-##Brief information about myrself:##
+## Brief information about myrself: ##
 
 My goal is to gain programming skills as a web developer. Then I'd like to find a job as a programmer. 
 I have programming experience in VBA, SQL, Access.
 As my strengths, I want to note the ability to process a large amount of information, the desire to streamline any work processes, curiosity, creating logical solutions for solving complex problems.
 
-##Skills and development tools:##
+## Skills and development tools: ##
 
 - VBA, SQL, Access;
 - HTML, CSS, JavaScript;
 - Git;
 - Codepen, Repl.it.
 
-##Code examples: 
+## Code examples: 
 (A task: return masked string)
 
     function maskify(cc) {
@@ -42,15 +44,15 @@ As my strengths, I want to note the ability to process a large amount of informa
       }
     }  
 
-##Work experience:##
+## Work experience: ##
 5 years of experience in creating database management systems using VBA, SQL, Access.
 
-##Education:##
+## Education: ##
 
 - Fraternal State University. Process automation engineer;
 - Professional retraining: Novosibirsk State Technical University. Computer software and automated systems;
 - Training: Novosibirsk State Technical University. 1C-programmer.
 
-##English language:##
+## English language: ##
 
 A2. I am currently improving my level of English knowledge on my own		
