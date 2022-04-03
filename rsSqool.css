@@ -1,0 +1,81 @@
+* 
+{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.main-size {
+  padding: 50px 200px;
+}
+
+.name-my {
+  font-size: 30px;
+  color: #0f0d0e;
+  font-weight: 700;
+  font-family: Arial, serif;
+  text-transform: uppercase;
+}
+
+.name-my, .contacts, .information-for-me, .subtitle {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  
+  font-size: 20px;
+  color: #b59f5b;
+  font-weight: 700;
+  font-family: Arial, serif;
+  text-transform:  uppercase;
+}
+
+.name-my {
+  align-items: center;	
+}
+
+.name-my::after {
+  margin-bottom: 20px;
+	
+  width: 30%;
+  height: 9px;
+  
+  content: "";
+  border-style: none none solid none;
+  border-width: 3px;
+  border-color: #b59f5b;
+}
+
+.list {
+  padding-left: 20px;
+}
+
+.information-for-me::before, .subtitle::before {
+  margin-bottom: 20px;
+	
+  width: 100%;
+  height: 9px;
+  
+  content: "";
+  border-style: none none solid none;
+  border-width: 3px;
+  border-color: #b59f5b;
+}
+
+.contact, .text-about-me, .cod, .education-university, .language-level, .experience {
+  padding: 5px 0px 20px 0px;
+	
+  font-size: 20px;
+  color: #808080;
+  font-weight: 700;
+  font-family: Arial, serif;
+}
+
+.task {
+	padding-bottom: 15px;
+	font-size: 18px;
+  color: #808080;
+  font-weight: 700;
+  font-family: Arial, serif;
+}
+
+
